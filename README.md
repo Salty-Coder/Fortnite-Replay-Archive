@@ -65,7 +65,7 @@ If you have some replay files feel free to make a pull request :)
 | --------------- | -------------- |
 | 9.00 | |       
 | 9.01 | |
-| 9.10 | [Download](https://github.com/Beat-YT/FortniteReplay/raw/main/replay/REPLAY9.10.replay) |      
+| 9.10 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY9.10.replay) |      
 | 9.20 | | 
 | 9.21 | | 
 | 9.30 | |
@@ -106,7 +106,7 @@ If you have some replay files feel free to make a pull request :)
 | 12.40 | |
 | 12.41 | |
 | 12.50 | |
-| 12.60 | |
+| 12.60 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY12.60.replay) |
 | 12.61 | |
 
 # Season 13
@@ -120,20 +120,82 @@ If you have some replay files feel free to make a pull request :)
 # Season 14
 | version    | Replay  |
 | ----------------- | --------------- |
-| 14.00 | |
+| 14.00 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY14.00.replay) |
 | 14.10 | |
 | 14.20 | |
 | 14.30 | |
 | 14.40 | |
 | 14.50 | |
-| 14.60 | |
+| 14.60 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY14.60.replay) |
 
 # Season 15
 | version    | Replay |
 | ----------------- | -------------- |
-| 15.00 |                |
-| 15.10 |                |
+| 15.00 | |
+| 15.10 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY15.10.replay) |
+| 15.20 | |
+| 15.21 | |
+| 15.30 | |
+| 15.40 | |
+| 15.50 | |
 
+# Season 16
+| version    | Replay |
+| ----------------- | -------------- |
+| 16.00 | |
+| 16.10 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY16.10.replay) |
+| 16.10 CU | |
+| 16.20 | |
+| 16.20 CU | |
+| 16.30 | |
+| 16.30 CU | |
+| 16.40 | |
+| 16.40 CU | |
+| 16.50 | |
+
+# Season 17
+| version    | Replay |
+| ----------------- | -------------- |
+| 17.00 | |
+| 17.10 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY16.10.replay) |
+| 17.20 | |
+| 17.21 | |
+| 17.30 | |
+| 17.30 CU | |
+| 17.40 | |
+| 17.40 CU | |
+| 17.50 | |
+
+# Season 18
+| version    | Replay |
+| ----------------- | -------------- |
+| 18.00 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY18.00.replay) |
+| 18.00 CU | |
+
+# Season 19
+| version    | Replay |
+| ----------------- | -------------- |
+| 19.00 | |
+| 19.01 | |
+
+# Season 20
+| version    | Replay |
+| ----------------- | -------------- |
+| 20.00 | |
+| 20.00 CU | |
+| 20.10 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY20.10.replay) |
+| 20.10 CU | |
+| 20.20 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY20.20.replay) |
+| 20.20 CU | |
+| 20.30 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY20.30.replay) |
+| 20.30 CU | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY20.30CU.replay) |
+| 20.40 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY20.40.replay) |
+| 20.40 CU | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY20.40CU.replay) |
+
+# Season 21
+| version    | Replay |
+| ----------------- | -------------- |
+| 21.00 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY21.00.replay)|
 
 
 # Event
@@ -142,5 +204,5 @@ If you have some replay files feel free to make a pull request :)
 | 8.51 | Unvaulting Event |  [Download](https://mega.nz/file/Mig13YxD#j5Yj0FaTi5E5U6SIRfa5JKc_ruDHw2yU59K1tLhUD1g) |
 | 9.41 | Final Showdown |  [Download](https://mega.nz/file/ku4XwaYQ#FolRQPCdOgK80R6Cliqj-WvKRMV1qV2tkEZMjn2Vw7k)|
 | 10.40 | The End |  [Download](https://mega.nz/file/W0FCCC5S#qCtoE_56-9xepWyBz-lt9eWf0bXgV8zoLhUBQimF8rU)|
-| 12.41 | Travis Scott |  [Download](https://drive.google.com/uc?id=1dsL_Z8vjjI0zp2jLsRMa-Js2A5jGzPk5)|
+| 12.41 | Travis Scott |  [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/event_travis.replay)|
 | 12.41 | The Device |  [Download](https://drive.google.com/uc?id=1UF1Mhb7B3UMuonBzu1mNYelkc4kwfjXc)|
