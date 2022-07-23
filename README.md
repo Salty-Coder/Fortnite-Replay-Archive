@@ -196,6 +196,10 @@ If you have some replay files feel free to make a pull request :)
 | version    | Replay |
 | ----------------- | -------------- |
 | 21.00 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY21.00.replay)|
+| 21.00 CU | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY21.00CU.replay)|
+| 21.10 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY21.10.replay)|
+| 21.10 CU | |
+| 21.20 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY21.20.replay)|
 
 
 # Event
