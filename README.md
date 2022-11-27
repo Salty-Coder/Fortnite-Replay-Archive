@@ -205,6 +205,15 @@ If you have some replay files feel free to make a pull request :)
 | 21.50 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY21.50.replay)|
 | 21.51 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY21.51.replay)|
 
+# Season 22
+| version    | Replay |
+| ----------------- | -------------- |
+| 22.00 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY22.00.replay)|
+| 22.10 | |
+| 22.10 CU | |
+| 22.20 | |
+| 22.30 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY22.30.replay)|
+
 
 # Event
 | version | Event | Replay |
