@@ -4,6 +4,7 @@ If you have some replay files feel free to make a pull request :)
 
 
 # Season 4
+### Chapter 1 Season 4
 | version   | Replay |
 | ---------------- | -------------- |
 | 4.0   | 
@@ -14,6 +15,7 @@ If you have some replay files feel free to make a pull request :)
 | 4.5   |  |
 
 # Season 5
+### Chapter 1 Season 5
 | version  | Replay |
 | --------------- | -------------- |
 | 5.0  | |
@@ -25,6 +27,7 @@ If you have some replay files feel free to make a pull request :)
 | 5.41 | |
 
 # Season 6
+### Chapter 1 Season 6
 | version  | Replay |
 | --------------- | -------------- |
 | 6.00 | |
@@ -38,6 +41,7 @@ If you have some replay files feel free to make a pull request :)
 | 6.31 | |
 
 # Season 7
+### Chapter 1 Season 7
 | version  | Replay |
 | --------------- | -------------- |
 | 7.00 |  |
@@ -48,6 +52,7 @@ If you have some replay files feel free to make a pull request :)
 | 7.40 |  |
 
 # Season 8
+### Chapter 1 Season 8
 | version  | Replay |
 | --------------- | -------------- |
 | 8.00 | |
@@ -61,6 +66,7 @@ If you have some replay files feel free to make a pull request :)
 | 8.51 | |
 
 # Season 9
+### Chapter 1 Season 9
 | version  | Replay |
 | --------------- | -------------- |
 | 9.00 | |       
@@ -73,6 +79,7 @@ If you have some replay files feel free to make a pull request :)
 | 9.41 | | 
 
 # Season 10
+### Chapter 1 Season X
 | version   | Replay |
 | ---------------- | -------------- |
 | 10.0  | |
@@ -83,6 +90,7 @@ If you have some replay files feel free to make a pull request :)
 | 10.40 | |
 
 # Season 11
+### Chapter 2 Season 1
 | version    | Replay |
 | ----------------- | --------------- |
 | 11.00 | |
@@ -96,6 +104,7 @@ If you have some replay files feel free to make a pull request :)
 | 11.50 | |
 
 # Season 12
+### Chapter 2 Season 2
 | version    | Replay |
 | ----------------- | --------------- |
 | 12.00 | |
@@ -110,6 +119,7 @@ If you have some replay files feel free to make a pull request :)
 | 12.61 | |
 
 # Season 13
+### Chapter 2 Season 3
 | version    | Replay  |
 | ----------------- | --------------- |
 | 13.00 | |
@@ -118,6 +128,7 @@ If you have some replay files feel free to make a pull request :)
 | 13.40 | |
 
 # Season 14
+### Chapter 2 Season 4
 | version    | Replay  |
 | ----------------- | --------------- |
 | 14.00 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY14.00.replay) |
@@ -129,6 +140,7 @@ If you have some replay files feel free to make a pull request :)
 | 14.60 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY14.60.replay) |
 
 # Season 15
+### Chapter 2 Season 5
 | version    | Replay |
 | ----------------- | -------------- |
 | 15.00 | |
@@ -140,6 +152,7 @@ If you have some replay files feel free to make a pull request :)
 | 15.50 | |
 
 # Season 16
+### Chapter 2 Season 6
 | version    | Replay |
 | ----------------- | -------------- |
 | 16.00 | |
@@ -154,6 +167,7 @@ If you have some replay files feel free to make a pull request :)
 | 16.50 | |
 
 # Season 17
+### Chapter 2 Season 7
 | version    | Replay |
 | ----------------- | -------------- |
 | 17.00 | |
@@ -167,18 +181,21 @@ If you have some replay files feel free to make a pull request :)
 | 17.50 | |
 
 # Season 18
+### Chapter 2 Season 8
 | version    | Replay |
 | ----------------- | -------------- |
 | 18.00 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY18.00.replay) |
 | 18.00 CU | |
 
 # Season 19
+### Chapter 3 Season 1
 | version    | Replay |
 | ----------------- | -------------- |
 | 19.00 | |
 | 19.01 | |
 
 # Season 20
+### Chapter 3 Season 2
 | version    | Replay |
 | ----------------- | -------------- |
 | 20.00 | |
@@ -193,6 +210,7 @@ If you have some replay files feel free to make a pull request :)
 | 20.40 CU | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY20.40CU.replay) |
 
 # Season 21
+### Chapter 3 Season 3
 | version    | Replay |
 | ----------------- | -------------- |
 | 21.00 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY21.00.replay)|
@@ -206,6 +224,7 @@ If you have some replay files feel free to make a pull request :)
 | 21.51 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY21.51.replay)|
 
 # Season 22
+### Chapter 3 Season 4
 | version    | Replay |
 | ----------------- | -------------- |
 | 22.00 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY22.00.replay)|
@@ -215,6 +234,7 @@ If you have some replay files feel free to make a pull request :)
 | 22.30 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY22.30.replay)|
 
 # Season 23
+### Chapter 4 Season 1
 | version    | Replay |
 | ----------------- | -------------- |
 | 23.00 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY23.00.replay)|
