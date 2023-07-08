@@ -238,6 +238,38 @@ If you have some replay files feel free to make a pull request :)
 | version    | Replay |
 | ----------------- | -------------- |
 | 23.00 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY23.00.replay)|
+| 23.10 | |
+| 23.10 CU | |
+| 23.20 | |
+| 23.20 CU | |
+| 23.30 | |
+| 23.30 CU | |
+| 23.40 | |
+| 23.40 CU | |
+| 23.50 | |
+
+# Season 24
+### Chapter 4 Season 2
+| version    | Replay |
+| ----------------- | -------------- |
+| 24.00 | |
+| 24.01 | |
+| 24.10 | |
+| 24.20 | |
+| 24.20 CU | |
+| 24.30 | |
+| 24.40 | |
+| 24.40 CU | |
+
+# Season 25
+### Chapter 4 Season 3
+| version    | Replay |
+| ----------------- | -------------- |
+| 25.00 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY25.00.replay)|
+| 25.10 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY25.10.replay)|
+| 25.11 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY25.11.replay)|
+| 25.11 CU | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY25.11CU.replay)|
+
 
 
 # Event
