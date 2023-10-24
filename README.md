@@ -230,8 +230,9 @@ If you have some replay files feel free to make a pull request :)
 | 22.00 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY22.00.replay)|
 | 22.10 | |
 | 22.10 CU | |
-| 22.20 | |
+| 22.20 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY22.20.replay)|
 | 22.30 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY22.30.replay)|
+| 22.40 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY22.40.replay)|
 
 # Season 23
 ### Chapter 4 Season 1
@@ -252,9 +253,9 @@ If you have some replay files feel free to make a pull request :)
 ### Chapter 4 Season 2
 | version    | Replay |
 | ----------------- | -------------- |
-| 24.00 | |
+| 24.00 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY24.00.replay)|
 | 24.01 | |
-| 24.10 | |
+| 24.10 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY24.10.replay)|
 | 24.20 | |
 | 24.20 CU | |
 | 24.30 | |
@@ -269,6 +270,23 @@ If you have some replay files feel free to make a pull request :)
 | 25.10 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY25.10.replay)|
 | 25.11 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY25.11.replay)|
 | 25.11 CU | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY25.11CU.replay)|
+| 25.20 | |
+| 25.20 CU | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY25.20CU.replay)|
+| 25.30 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY25.30.replay)|
+| 25.30 CU | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY25.30CU.replay)|
+
+# Season 26
+### Chapter 4 Season 4
+| version    | Replay |
+| ----------------- | -------------- |
+| 26.00 | |
+| 26.00 CU | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY26.00CU.replay)|
+| 26.10 | |
+| 26.10 CU | |
+| 26.20 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY26.20.replay)|
+| 26.20 CU | |
+| 26.30 | [Download](https://github.com/Salty-Coder/Fortnite-Replay-Archive/raw/main/replay/REPLAY26.30.replay)|
+| 26.30 CU | |
 
 
 
